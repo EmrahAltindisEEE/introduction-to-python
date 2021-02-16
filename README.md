@@ -9,9 +9,7 @@ You can find more information about our Introduction to Machine Learning Course 
 To enroll our courses, you can find the next course that fit your schedule by visiting [Upcoming Courses.](https://globalaihub.com/upcoming-courses/)
 
 youtube web site: https://www.youtube.com/channel/UCpB-u_FJegcM0WrMtr-W27w
-
 yazbel: https://python-istihza.yazbel.com/
-
 Python Developer’s Guide : https://devguide.python.org/
 
 ## Syllabus
